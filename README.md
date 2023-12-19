@@ -6,7 +6,7 @@
 
 <!-- Text  animation  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Usman+;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%3A))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Usman+;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%3A);Team+Player+%F0%9F%91%A5)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
