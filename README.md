@@ -19,7 +19,7 @@
 <br/>
 ⚡ Fun fact Turned a JavaScript bug into a feature, making it the most creative part of my project. In coding, mistakes can lead to the best discoveries! 🐞💻
 
-<br/>
+
 <!-- github Trophies  -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=usman-rizwan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
