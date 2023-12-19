@@ -5,9 +5,15 @@
 <br/>
 
 <!-- Text  animation  -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Usman+;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%3A)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&weight=900&pause=1000&color=8651F7&&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Usman+;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%E2%9C%8C"
+      alt="Typing SVG"
+      style="color: #3498db; font-size: 20px;"
+    >
+  </a>
+</div>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
