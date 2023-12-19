@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif"  width="600" > 
+ <img src="https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif"  width="450" > 
 </div>
 
 
