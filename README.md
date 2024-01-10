@@ -47,10 +47,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=usman-rizwan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usman-rizwan&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizwan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<br/>
 <div align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman-rizwan&show_icons=true&locale=en&layout=compact" alt="usman-rizwan" />  </div>
 <h3 align="left">🌐 Connect with me:</h3>
 <hr>
