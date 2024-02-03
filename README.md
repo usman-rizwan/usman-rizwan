@@ -21,7 +21,7 @@
 	src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
 
 # 💫 About Me:
-🔭 I’m currently  learning and working on JavaScript<br>💬 Ask me about JavaScript
+🔭 I’m currently  learning and working on React Js⚛<br>💬 Ask me about JavaScript
 <br/>
 🌱 How to reach me usmanrizwan771@gmail.com
 <br/>
