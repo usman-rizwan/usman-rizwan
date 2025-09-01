@@ -21,7 +21,6 @@
 </div>
 -->
 
-
 ## 💫 About Me
 
 👨‍💻 I'm a passionate Full Stack Web Developer focused on building scalable, high-performance web applications using modern frameworks.
@@ -32,15 +31,6 @@
 
 
 <hr/>
-<br>
-<br>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=usman-rizwan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<hr/>
-<br>
 <br>
 
 # 💻 Tech Stack:
@@ -61,10 +51,6 @@
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   - ![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-
-<br>
-<br>
 <br>
 
 # 📊 GitHub Stats:
@@ -90,9 +76,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/usman.rizwan.370?mibextid=JRoKGi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
   <a href="https://wa.me/923098944524" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
@@ -108,8 +91,11 @@ usman-rizwan-159965290
 
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=usman-rizwan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+<hr/>
+<br>
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph
 
