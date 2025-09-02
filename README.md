@@ -7,7 +7,7 @@
 
 
 # Hi! 👋 I'm [Usman Rizwan](https://github.com/usman-rizwan), a Full Stack Web Developer 🚀
-<br/>
+
 
 <!-- Text  animation  -->
 <!-- Text<div align="center">
@@ -21,7 +21,7 @@
 </div>
 -->
 
-## 💫 About Me
+ <h3 align="left"> 💫 About Me   : </h3>
 
 👨‍💻 I'm a passionate Full Stack Web Developer focused on building scalable, high-performance web applications using modern frameworks.
 
@@ -30,10 +30,7 @@
 - ⚡ Fun fact: I once turned a tricky JavaScript bug into a feature — it became the most talked-about part of the project! 🐞✨
 
 
-<hr/>
-<br>
-
-# 💻 Tech Stack:
+#  <h3 align="left">💻 Tech Stack: </h3>
 - **Frameworks & Libraries:**
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
   - ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -53,7 +50,7 @@
   - ![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 <br>
 
-# 📊 GitHub Stats:
+# <h3 align="left">📊 GitHub Stats </h3>
 ![](https://github-readme-stats.vercel.app/api?username=usman-rizwan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usman-rizwan&theme=dracula&hide_border=false)<br/>
 
@@ -70,11 +67,8 @@
 
 </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
+ <h3 align="left">🌐 Connect with me:</h3>
 <hr/>
-
-###
-
 <div align="center">
   <a href="https://wa.me/923098944524" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
@@ -97,7 +91,7 @@ usman-rizwan-159965290
 <hr/>
 <br>
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph
+ 📈 GitHub Activity Graph
 
   <!-- contribution graph -->
   <div >
